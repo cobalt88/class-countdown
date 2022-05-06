@@ -1,0 +1,28 @@
+body, header {
+  background-color: #262121;
+  color:#655a5a;
+  height: 100%;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+time {
+  background-color: #262121;
+  flex-direction: column;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.card-body{
+  background-color:#262121;
+}
+.card{
+  background-color:#262121;
+  border: none;
+}
+time canvas {
+  width: 40px;
+  height: 40px;
+}
