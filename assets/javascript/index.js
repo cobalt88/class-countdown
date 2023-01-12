@@ -70,7 +70,7 @@
 
     clear(mo);
     setTrack(mo);
-    setTime(mo, grad.getMonth(), today.getMonth(), 6);
+    setTime(mo, grad.getMonth(), today.getMonth(), 7);
     monthDisplay.textContent = 6 - negMonths;
 
     clear(d);
